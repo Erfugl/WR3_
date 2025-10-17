@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "recordName": "London Calling",
+      "artist": "The Clash",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/TheClashLondonCallingalbumcover.jpg"
+    },
+    {
+      "recordName": "The Stooges",
+      "artist": "The Stooges",
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/StoogesStooges.jpg"
+    },
+    {
+      "recordName": "Brighten the Corners",
+      "artist": "Pavemenet",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/BrightentheCorners.jpg/250px-BrightentheCorners.jpg"
+    },
+    {
+      "recordName": "Animorphs",
+      "artist": "Honningbarna",
+      "img": "https://www.platekompaniet.no/pimcorecdn/Products/Music/LP/LPT/honning2022.jpg"
+    }
+  ]
+}
