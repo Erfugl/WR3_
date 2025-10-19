@@ -1,5 +1,6 @@
 import { Link, NavLink } from 'react-router-dom';
 import routes from '../routes.ts';
+import '../css/header.css'
 
 export default function Header() {
   return <header>
@@ -8,7 +9,7 @@ export default function Header() {
     </Link>
     <nav>
       {routes.filter(x => x.menuLabel).map(({ menuLabel, path }, i) =>
-        <NavLink key={i} to={path}>{menuLabel}</NavLink>)}
+        <NavLink className="headerLinks" key={i} to={path}>{menuLabel}</NavLink>)}
     </nav>
   </header>
 }
